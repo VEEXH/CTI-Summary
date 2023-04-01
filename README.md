@@ -23,3 +23,7 @@ Run the Python script in your terminal or command prompt:
 
 ```bash
 python cyber_threat_intel.py
+```
+## Troubleshooting
+
+If you encounter any issues, check the printed output for any error messages related to the API keys or search queries. Make sure you have entered the correct API keys and have enabled the APIs for your project.
